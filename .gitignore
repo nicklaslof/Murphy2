@@ -1,1 +1,4 @@
 build
+/nbproject/private/
+/Modules/Core/nbproject/private/
+/Modules/IRCConnector/nbproject/private/
