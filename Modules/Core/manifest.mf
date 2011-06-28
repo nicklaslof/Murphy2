@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: st.rhapsody.murphy
+OpenIDE-Module-Install: st/rhapsody/murphy/Installer.class
+OpenIDE-Module-Layer: st/rhapsody/murphy/layer.xml
+OpenIDE-Module-Localizing-Bundle: st/rhapsody/murphy/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

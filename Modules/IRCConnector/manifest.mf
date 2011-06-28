@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.rhapsody.murphy.connector.irc
+OpenIDE-Module-Localizing-Bundle: com/rhapsody/murphy/connector/irc/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
