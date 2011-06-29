@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-OpenIDE-Module: st.rhapsody.st.murphy.actionprovider.talker
-OpenIDE-Module-Localizing-Bundle: st/rhapsody/st/murphy/actionprovider/talker/Bundle.properties
+OpenIDE-Module: st.rhapsody.murphy.actionprovider.talker
+OpenIDE-Module-Localizing-Bundle: st/rhapsody/murphy/actionprovider/talker/Bundle.properties
 OpenIDE-Module-Specification-Version: 1.0
 
