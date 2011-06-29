@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: st.rhapsody.actionprovider.spotify
+OpenIDE-Module-Localizing-Bundle: st/rhapsody/actionprovider/spotify/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

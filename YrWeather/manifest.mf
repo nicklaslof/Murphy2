@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: st.rhapsody.murphy.actionprovider.yrweather
+OpenIDE-Module-Localizing-Bundle: st/rhapsody/murphy/actionprovider/yrweather/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

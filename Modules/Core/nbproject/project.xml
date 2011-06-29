@@ -32,6 +32,7 @@
                 </dependency>
             </module-dependencies>
             <public-packages>
+                <package>st.rhapsody.murphy.actionprovider</package>
                 <package>st.rhapsody.murphy.interfaces</package>
             </public-packages>
         </data>
